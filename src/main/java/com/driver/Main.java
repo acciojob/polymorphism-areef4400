@@ -11,8 +11,10 @@ class Product{
     }
 }
 public class Main {
-    Product p = new Product();
-    System.out.println(p.product(5, 6);
-    System.out.println(p.product(5, 6, 3);
-    System.out.println(p.product(5.5, 4);
+    public static void main(String []args){
+        Product p = new Product();
+        System.out.println(p.product(5, 6);
+        System.out.println(p.product(5, 6, 3);
+        System.out.println(p.product(5.5, 4.0);
+    }
 }
